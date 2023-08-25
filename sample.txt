@@ -2,4 +2,10 @@ practice Session
 
 
 hello nova
+<<<<<<< HEAD
 1245678
+=======
+
+
+hiiiiiiiiiiiiiiiii
+>>>>>>> newfeature
